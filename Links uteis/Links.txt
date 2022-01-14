@@ -1,0 +1,6 @@
+Link de dowunload do git:
+https://git-scm.com/downloads
+
+Link de download do VsCode:
+https://code.visualstudio.com/download
+
